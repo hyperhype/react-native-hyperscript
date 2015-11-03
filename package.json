@@ -1,0 +1,35 @@
+{
+  "name": "react-hyperscript",
+  "description": "Hyperscript syntax for React Native",
+  "version": "0.0.1",
+  "homepage": "https://github.com/reqshark/react-native-hyperscript",
+  "author": {
+    "name": "Bent Cardan",
+    "email": "bent@nothingsatisfies.com"
+  },
+  "keywords": [
+    "react-native",
+    "react.js",
+    "hyperscript",
+    "markup",
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reqshark/react-native-hyperscript"
+  },
+  "bugs": {
+    "url": "https://github.com/reqshark/react-native-hyperscript/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/reqshark/react-native-hyperscript/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "react-native": ">=0.12.0",
+    "virtual-hyperscript": "4.6"
+  }
+}
